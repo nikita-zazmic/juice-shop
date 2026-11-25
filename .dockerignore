@@ -8,7 +8,7 @@
 .github/
 .idea/
 .junie/
-.mailmap
+.mailmap  
 .npmrc
 .nyc_output
 .playwright-mcp/
